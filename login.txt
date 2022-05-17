@@ -1,2 +1,6 @@
 test test
 log in
+bug fixed
+
+log in 
+sign up now
